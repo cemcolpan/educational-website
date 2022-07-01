@@ -18,6 +18,7 @@
 header {
     background-color: rgba(255, 255, 255, 0.2);
     margin: 0 30px;
+    position: relative;
 }
 
 header ul {
@@ -80,8 +81,8 @@ li {
         color: #fff;
         font-size: 30px;
         position: absolute;
-        right: 30px;
-        top: 20px;
+        right: 20px;
+        top: -20px;
     }
 
     .mobile-nav {
